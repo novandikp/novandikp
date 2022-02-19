@@ -1,3 +1,4 @@
+/* Tablet */
 @media screen and (max-width: 769px) {
   #header img {
     display: none;
@@ -13,6 +14,7 @@
     height: auto;
   }
 }
+/* Phone */
 @media screen and (max-width: 481px) {
   .content {
     margin: 5% 10px;
