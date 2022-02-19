@@ -1,0 +1,39 @@
+@media screen and (max-width: 769px) {
+  #header img {
+    display: none;
+  }
+  #header {
+    display: block;
+  }
+  .project {
+    width: 100%;
+  }
+  .project img {
+    width: 80%;
+    height: auto;
+  }
+}
+@media screen and (max-width: 481px) {
+  .content {
+    margin: 5% 10px;
+  }
+  #header {
+    color: #fff;
+    font-size: 12pt;
+  }
+  .title {
+    font-size: 20pt;
+  }
+  .subtitle {
+    font-size: 12pt;
+  }
+
+  section {
+    margin-bottom: 60px;
+  }
+  .btn {
+    padding: 10px 10px;
+    font-size: 9pt;
+    margin: 0 8px;
+  }
+}
