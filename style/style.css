@@ -112,7 +112,10 @@ a.blink {
   transition: all 0.5s;
   position: relative;
 }
-
+.project p {
+  font-size: 14pt;
+  margin-top: 12px;
+}
 .project img {
   width: 90%;
   height: 400px;
