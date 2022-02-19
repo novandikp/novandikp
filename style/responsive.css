@@ -16,6 +16,10 @@
 }
 /* Phone */
 @media screen and (max-width: 481px) {
+  .project p {
+    font-size: 12pt;
+  }
+
   .content {
     margin: 5% 10px;
   }
