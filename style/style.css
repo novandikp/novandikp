@@ -43,7 +43,7 @@ section {
   margin-right: 10px;
   opacity: 0;
   color: #f27c7c;
-  text-shadow: 1px 3px 3px #24292e;
+  text-shadow: 1px 1px 1px #24292e;
   animation: reveal 0.5s linear forwards 2.5s;
 }
 
