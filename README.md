@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/novandi-kevin-pratama-a10861207">
+  <a target="_blank" href="https://www.linkedin.com/in/novandi-kevin-pratama-a10861207">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCakN25IQCp45TlSssQ-rmiw">
+  <a target="_blank" href="https://www.youtube.com/channel/UCakN25IQCp45TlSssQ-rmiw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>  
 </div>
